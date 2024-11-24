@@ -1,9 +1,23 @@
-﻿namespace Ex02;
+﻿using System;
+using System.Globalization;
 
-class Program
+namespace Ex02
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            // Definindo o valor de pi conforme solicitado
+            double pi = 3.14159;
+            
+            // Lendo o valor do raio e convertendo para double com cultura invariante
+            double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            // Calculando a área utilizando a fórmula
+            double area = pi * Math.Pow(raio, 2);
+
+            // Exibindo o resultado com 4 casas decimais
+            Console.WriteLine("A=" + area.ToString("F4", CultureInfo.InvariantCulture));
+        }
     }
 }
