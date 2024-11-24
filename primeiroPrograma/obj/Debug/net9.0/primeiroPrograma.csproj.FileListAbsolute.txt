@@ -1,0 +1,14 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\bin\Debug\net9.0\primeiroPrograma.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\bin\Debug\net9.0\primeiroPrograma.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\bin\Debug\net9.0\primeiroPrograma.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\bin\Debug\net9.0\primeiroPrograma.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\bin\Debug\net9.0\primeiroPrograma.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\refint\primeiroPrograma.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\primeiroPrograma.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\primeiroPrograma\obj\Debug\net9.0\ref\primeiroPrograma.dll
