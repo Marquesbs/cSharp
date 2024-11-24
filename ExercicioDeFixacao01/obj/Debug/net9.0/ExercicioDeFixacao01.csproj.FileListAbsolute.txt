@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\bin\Debug\net9.0\ExercicioDeFixacao01.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\bin\Debug\net9.0\ExercicioDeFixacao01.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\bin\Debug\net9.0\ExercicioDeFixacao01.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\bin\Debug\net9.0\ExercicioDeFixacao01.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\bin\Debug\net9.0\ExercicioDeFixacao01.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\refint\ExercicioDeFixacao01.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ExercicioDeFixacao01.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\ExercicioDeFixacao01\obj\Debug\net9.0\ref\ExercicioDeFixacao01.dll
