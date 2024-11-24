@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\conversoes\\conversoes.csproj": {}
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\conversoes\\conversoes.csproj": {
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\conversoes\\conversoes.csproj",
-        "projectName": "conversoes",
-        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\conversoes\\conversoes.csproj",
+        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj",
+        "projectName": "Interpolacao",
+        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj",
         "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\conversoes\\obj\\",
+        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

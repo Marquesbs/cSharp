@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\bin\Debug\net9.0\Placeholders.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\bin\Debug\net9.0\Placeholders.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\bin\Debug\net9.0\Placeholders.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\bin\Debug\net9.0\Placeholders.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\bin\Debug\net9.0\Placeholders.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\refint\Placeholders.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\Placeholders.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Placeholders\obj\Debug\net9.0\ref\Placeholders.dll

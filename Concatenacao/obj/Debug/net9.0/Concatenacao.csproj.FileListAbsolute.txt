@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\bin\Debug\net9.0\Concatenacao.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\bin\Debug\net9.0\Concatenacao.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\bin\Debug\net9.0\Concatenacao.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\bin\Debug\net9.0\Concatenacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\bin\Debug\net9.0\Concatenacao.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\refint\Concatenacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\Concatenacao.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Concatenacao\obj\Debug\net9.0\ref\Concatenacao.dll

@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\bin\Debug\net9.0\Interpolacao.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\bin\Debug\net9.0\Interpolacao.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\bin\Debug\net9.0\Interpolacao.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\bin\Debug\net9.0\Interpolacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\bin\Debug\net9.0\Interpolacao.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\refint\Interpolacao.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\Interpolacao.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Interpolacao\obj\Debug\net9.0\ref\Interpolacao.dll
