@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Placeholders\\Placeholders.csproj": {}
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Placeholders\\Placeholders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Placeholders\\Placeholders.csproj": {
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Placeholders\\Placeholders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Placeholders\\Placeholders.csproj",
+        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Placeholders\\Placeholders.csproj",
         "projectName": "Placeholders",
-        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Placeholders\\Placeholders.csproj",
+        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Placeholders\\Placeholders.csproj",
         "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Placeholders\\obj\\",
+        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Placeholders\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

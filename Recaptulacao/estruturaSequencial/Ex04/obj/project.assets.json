@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\estruturaSequencial\\Ex04\\Ex04.csproj",
+      "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\estruturaSequencial\\Ex04\\Ex04.csproj",
       "projectName": "Ex04",
-      "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\estruturaSequencial\\Ex04\\Ex04.csproj",
+      "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\estruturaSequencial\\Ex04\\Ex04.csproj",
       "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\estruturaSequencial\\Ex04\\obj\\",
+      "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\estruturaSequencial\\Ex04\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

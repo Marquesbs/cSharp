@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj",
+      "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Interpolacao\\Interpolacao.csproj",
       "projectName": "Interpolacao",
-      "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\Interpolacao.csproj",
+      "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Interpolacao\\Interpolacao.csproj",
       "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Interpolacao\\obj\\",
+      "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\Interpolacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

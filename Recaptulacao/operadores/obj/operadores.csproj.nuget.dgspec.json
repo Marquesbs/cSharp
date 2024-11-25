@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\operadores\\operadores.csproj": {}
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\operadores\\operadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\operadores\\operadores.csproj": {
+    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\operadores\\operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\operadores\\operadores.csproj",
+        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\operadores\\operadores.csproj",
         "projectName": "operadores",
-        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\operadores\\operadores.csproj",
+        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\operadores\\operadores.csproj",
         "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\operadores\\obj\\",
+        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\operadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
