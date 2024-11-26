@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\bin\Debug\net9.0\Comentarios.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\bin\Debug\net9.0\Comentarios.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\bin\Debug\net9.0\Comentarios.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\bin\Debug\net9.0\Comentarios.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\bin\Debug\net9.0\Comentarios.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\refint\Comentarios.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\Comentarios.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Comentarios\obj\Debug\net9.0\ref\Comentarios.dll
