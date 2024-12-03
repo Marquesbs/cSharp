@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\bin\Debug\net9.0\Numeros.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\bin\Debug\net9.0\Numeros.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\bin\Debug\net9.0\Numeros.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\bin\Debug\net9.0\Numeros.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\bin\Debug\net9.0\Numeros.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\refint\Numeros.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\Numeros.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\Numeros\obj\Debug\net9.0\ref\Numeros.dll
