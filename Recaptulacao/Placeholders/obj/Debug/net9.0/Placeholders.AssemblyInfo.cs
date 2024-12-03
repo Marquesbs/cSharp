@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Placeholders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ca2e3a04149b44cb5d980fd5035e0ebb1d4782f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfb6e7e38ae8a9f2c6faad44b903b8e8baf39fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Placeholders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Placeholders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
