@@ -1,0 +1,15 @@
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\bin\Debug\net9.0\Ex02.exe
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\bin\Debug\net9.0\Ex02.deps.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\bin\Debug\net9.0\Ex02.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\bin\Debug\net9.0\Ex02.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\bin\Debug\net9.0\Ex02.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\refint\Ex02.dll
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.pdb
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\Ex02.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\GitHub\cSharp\Recaptulacao\estruturaWhile\Ex02\obj\Debug\net9.0\ref\Ex02.dll
