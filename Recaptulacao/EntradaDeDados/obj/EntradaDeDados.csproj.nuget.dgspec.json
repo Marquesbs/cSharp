@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj": {}
+    "E:\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj": {
+    "E:\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectUniqueName": "E:\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj",
         "projectName": "EntradaDeDados",
-        "projectPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj",
+        "projectPath": "E:\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\EntradaDeDados.csproj",
         "packagesPath": "C:\\Users\\marqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marqu\\OneDrive\\Documentos\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\obj\\",
+        "outputPath": "E:\\GitHub\\cSharp\\Recaptulacao\\EntradaDeDados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
