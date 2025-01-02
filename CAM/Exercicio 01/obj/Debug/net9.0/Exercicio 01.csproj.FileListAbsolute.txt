@@ -1,0 +1,15 @@
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.AssemblyInfoInputs.cache
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.AssemblyInfo.cs
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.csproj.CoreCompileInputs.cache
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.sourcelink.json
+E:\GitHub\cSharp\CAM\Exercicio 01\bin\Debug\net9.0\Exercicio 01.exe
+E:\GitHub\cSharp\CAM\Exercicio 01\bin\Debug\net9.0\Exercicio 01.deps.json
+E:\GitHub\cSharp\CAM\Exercicio 01\bin\Debug\net9.0\Exercicio 01.runtimeconfig.json
+E:\GitHub\cSharp\CAM\Exercicio 01\bin\Debug\net9.0\Exercicio 01.dll
+E:\GitHub\cSharp\CAM\Exercicio 01\bin\Debug\net9.0\Exercicio 01.pdb
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.dll
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\refint\Exercicio 01.dll
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.pdb
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\Exercicio 01.genruntimeconfig.cache
+E:\GitHub\cSharp\CAM\Exercicio 01\obj\Debug\net9.0\ref\Exercicio 01.dll
