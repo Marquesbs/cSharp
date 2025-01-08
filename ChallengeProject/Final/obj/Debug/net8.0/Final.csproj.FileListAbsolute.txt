@@ -1,0 +1,15 @@
+E:\GitHub\cSharp\ChallengeProject\Final\bin\Debug\net8.0\Final.exe
+E:\GitHub\cSharp\ChallengeProject\Final\bin\Debug\net8.0\Final.deps.json
+E:\GitHub\cSharp\ChallengeProject\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+E:\GitHub\cSharp\ChallengeProject\Final\bin\Debug\net8.0\Final.dll
+E:\GitHub\cSharp\ChallengeProject\Final\bin\Debug\net8.0\Final.pdb
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.sourcelink.json
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.dll
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\refint\Final.dll
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.pdb
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+E:\GitHub\cSharp\ChallengeProject\Final\obj\Debug\net8.0\ref\Final.dll
